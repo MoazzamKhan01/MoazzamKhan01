@@ -1,3 +1,5 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, This is Moazzam!
+
 # About Me:
 🌱 I’m currently learning data engineering fundamentals, including SQL, Python, ETL processes<br>👯 I’m looking to collaborate on data engineering and analytics projects  <br>💬 Ask me about: Data analytics basics, SQL, and my transition into data engineering  <br>⚡ Fun fact: Started as an electronics engineer, now diving into data engineering 🚀
 
