@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭🌱 I’m currently learning data engineering fundamentals, including SQL, Python, ETL processes, while building small data pipeline projects<br>👯 I’m looking to collaborate on data engineering and analytics projects  <br>💬 Ask me about: Data analytics basics, SQL, and my transition into data engineering  <br>⚡ Fun fact: Started as an electronics engineer, now diving into data engineering 🚀
+🌱 I’m currently learning data engineering fundamentals, including SQL, Python, ETL processes<br>👯 I’m looking to collaborate on data engineering and analytics projects  <br>💬 Ask me about: Data analytics basics, SQL, and my transition into data engineering  <br>⚡ Fun fact: Started as an electronics engineer, now diving into data engineering 🚀
 
 
 ## 🌐 Socials:
